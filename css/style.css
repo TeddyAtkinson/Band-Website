@@ -1,10 +1,23 @@
-.sidebar {
-    width: 30%;
-    float: right;
-    background-color: yellow;
+.format{
+    border: 2px greenyellow;
+    padding: 10px;
+    background-color: bisque;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+    box-sizing: border-box;
 }
 
-.column {
-    width: 300px;
-    float: left;
+.image_Format{
+    padding: auto;
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+body{
+    background-color: aliceblue;
+    text-align: center;
 }
